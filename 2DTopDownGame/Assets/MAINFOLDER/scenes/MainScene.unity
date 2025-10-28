@@ -153,11 +153,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 311588005}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 1}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -12}
-  m_SizeDelta: {x: 60.512, y: 39.15271}
-  m_Pivot: {x: 0.5, y: 1.0000001}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 235}
+  m_SizeDelta: {x: 60.512, y: 39.1527}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &130639527
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -998,11 +998,15 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_AnchoredPosition: {x: -672.47, y: -340}
 =======
   m_AnchoredPosition: {x: -355, y: -220}
 >>>>>>> Stashed changes
+=======
+  m_AnchoredPosition: {x: -354.29974, y: -200}
+>>>>>>> parent of b2b1440 (gui)
   m_SizeDelta: {x: 158.7365, y: 41.8162}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &677190925
@@ -1264,11 +1268,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 311588005}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 14.679016, y: -2.4617004}
-  m_SizeDelta: {x: 129.38208, y: 41.816193}
-  m_Pivot: {x: 0, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -370, y: 235}
+  m_SizeDelta: {x: 129.3821, y: 41.8162}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &921694359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1404,11 +1408,15 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_AnchoredPosition: {x: -534, y: -340}
 =======
   m_AnchoredPosition: {x: -280, y: -220}
 >>>>>>> Stashed changes
+=======
+  m_AnchoredPosition: {x: -225, y: -200}
+>>>>>>> parent of b2b1440 (gui)
   m_SizeDelta: {x: 80.915, y: 36.691}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1143301444
@@ -1577,11 +1585,15 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_AnchoredPosition: {x: 725.04, y: 403.94}
 =======
   m_AnchoredPosition: {x: 460, y: 235}
 >>>>>>> Stashed changes
+=======
+  m_AnchoredPosition: {x: 425, y: 235}
+>>>>>>> parent of b2b1440 (gui)
   m_SizeDelta: {x: 80.915, y: 36.691}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1278224902
@@ -1812,11 +1824,15 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_AnchoredPosition: {x: -636.34, y: -389.88}
 =======
   m_AnchoredPosition: {x: -320, y: -250}
 >>>>>>> Stashed changes
+=======
+  m_AnchoredPosition: {x: -318.17188, y: -235}
+>>>>>>> parent of b2b1440 (gui)
   m_SizeDelta: {x: 231.0063, y: 41.8162}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1290632250
@@ -2094,11 +2110,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 311588005}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 149, y: -5.1252136}
-  m_SizeDelta: {x: 80.91498, y: 36.69101}
-  m_Pivot: {x: 0, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -260, y: 235}
+  m_SizeDelta: {x: 80.915, y: 36.691}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1466460147
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2215,7 +2231,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -1.1748047, y: -4.6992188, z: 0.000061035156, w: 0}
+  m_margin: {x: 0, y: 0, z: 0.000061035156, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2265,11 +2281,15 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_AnchoredPosition: {x: -469, y: -389.88}
 =======
   m_AnchoredPosition: {x: -230, y: -250}
 >>>>>>> Stashed changes
+=======
+  m_AnchoredPosition: {x: -155, y: -235}
+>>>>>>> parent of b2b1440 (gui)
   m_SizeDelta: {x: 80.915, y: 36.691}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1499296705
@@ -2388,7 +2408,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: -1.975605, z: -7.69751, w: 0}
+  m_margin: {x: 0, y: 0, z: 0.000061035156, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2688,11 +2708,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 311588005}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 14.679016, y: -58}
-  m_SizeDelta: {x: 107.33588, y: 41.816193}
-  m_Pivot: {x: 0, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -380, y: 200}
+  m_SizeDelta: {x: 107.3359, y: 41.8162}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1726646525
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2778,7 +2798,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: -1.282898, z: 0.000061035156, w: 0}
+  m_margin: {x: 0, y: 0, z: 0.000061035156, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2826,11 +2846,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 311588005}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 135, y: -58}
-  m_SizeDelta: {x: 80.91498, y: 36.69101}
-  m_Pivot: {x: 0, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -280, y: 200}
+  m_SizeDelta: {x: 80.915, y: 36.691}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1736796980
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3074,6 +3094,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 311588005}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
@@ -3087,6 +3108,13 @@ RectTransform:
   m_SizeDelta: {x: 114.5773, y: 41.8162}
   m_Pivot: {x: 0.5, y: 0.5}
 >>>>>>> Stashed changes
+=======
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 320, y: 235}
+  m_SizeDelta: {x: 114.5773, y: 41.8162}
+  m_Pivot: {x: 0.5, y: 0.5}
+>>>>>>> parent of b2b1440 (gui)
 --- !u!114 &1885752136
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3174,7 +3202,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 1.282959, z: 0.000061035156, w: 0}
+  m_margin: {x: 0, y: 0, z: 0.000061035156, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
