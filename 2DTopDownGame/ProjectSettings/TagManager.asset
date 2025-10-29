@@ -4,10 +4,10 @@
 TagManager:
   serializedVersion: 3
   tags:
+  - Enemy
   - Fireball
   - Coin
   - Heart
-  - Enemy
   layers:
   - Default
   - TransparentFX
