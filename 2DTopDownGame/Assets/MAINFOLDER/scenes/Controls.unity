@@ -2892,7 +2892,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 20.667}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -223, y: -180}
+  m_AnchoredPosition: {x: -277, y: -163}
   m_SizeDelta: {x: 54.7424, y: 183.3}
   m_Pivot: {x: 0.49999997, y: 0.50000006}
 --- !u!114 &1262370277
@@ -3027,8 +3027,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 3.4957275, y: 177}
-  m_SizeDelta: {x: -1247.8389, y: -731.8885}
+  m_AnchoredPosition: {x: 3.4957275, y: 121.47211}
+  m_SizeDelta: {x: -1247.8389, y: -842.9442}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1349040683
 MonoBehaviour:
@@ -3050,7 +3050,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "SPACE: Shoot  \nWASD: Move\nCoins; Give SCORE\nHearts; Give HEALTH"
+  m_text: "SPACE: Shoot  \nWASD: Move\nHOLD ESCAPE: Back to Start\n----------------------------------------\nCoins
+    - Give SCORE\nHearts - Give HEALTH\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4217,7 +4218,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -109, y: -96}
+  m_AnchoredPosition: {x: -59, y: -132}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.49999997, y: 0.50000006}
 --- !u!114 &1608680492
