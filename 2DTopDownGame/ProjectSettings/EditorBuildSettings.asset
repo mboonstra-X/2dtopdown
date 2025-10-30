@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MAINFOLDER/scenes/MainScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
     path: Assets/MAINFOLDER/scenes/StartScreen.unity
     guid: 5582687e70679fc4eadf78374c42af76
+  - enabled: 1
+    path: Assets/MAINFOLDER/scenes/MainScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
     path: Assets/MAINFOLDER/scenes/DeathScreen.unity
     guid: 3e0b86ec2e5fec5419a80506e34a60eb
